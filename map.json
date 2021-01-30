@@ -81,6 +81,12 @@
          "id":25,
          "name":"video_2",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/www.youtube.com\/embed\/DqU40tc2ueg"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
